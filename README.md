@@ -8,6 +8,8 @@ I enjoy turning complex theory into working code, visualizing data in unique way
 ### Featured Projects
 - [normalized-convolution-reconstruction](https://github.com/LIMME2001/normalized-convolution-reconstruction) – 1D and 2D signal reconstruction using Normalized Convolution to handle uncertain data.
 - [nlp-project](https://github.com/asoderlind/nlp-project) – Explored arc-hybrid parsing with static and dynamic oracles, finding static oracle outperforms dynamic in attachment scores.
+- [Catalyst](https://github.com/LIMME2001/Catalyst) – Flutter-based personal goal and task tracker with interactive yearly heatmaps, streak tracking, and full dark-mode support for iOS & Android.
+
 <!--
 ---
 
